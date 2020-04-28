@@ -16,13 +16,13 @@ function Robot(){
         totalSupply = 100000000000000000000000000; 
         
         // Set the name for display purposes
-        name = "Robot"; 
+        name = "Grant"; 
         
         // Amount of decimals for display purposes
         decimals = 18;  
         
         // Set the symbol for display purposes
-        symbol = "RBT"; 
+        symbol = "GNT"; 
         
 }
 ```
